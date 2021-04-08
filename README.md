@@ -1,5 +1,5 @@
 # Handwritten-Digit-Classification :
-In this project we will classify that the given digit is handwritten or not with the help of MNIST dataset
+In this project we will classify that the handwritten digit is really a digit or not with the help of MNIST dataset
 # MNIST Dataset : 
  We have used mnist dataset for training and testing 
  It has 70000 handwritten digit images and 784 features
