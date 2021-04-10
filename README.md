@@ -10,7 +10,7 @@ and then f1 score
  It denotes that what percent of positive predictions made were correct with the help of confusion metrix.
  # Recall :
   It denotes the percentage of actual positive values classified by the classifier.
-  # f1 score : I
+  # f1 score : 
    It is harmonic mean of precision and recall . It is convinient to combine the preformance of classifier (precision,recall) into a single matrix call f1 score.
 # MNIST Dataset : 
  We have used mnist dataset for training and testing 
@@ -30,4 +30,5 @@ and then f1 score
   12. Calclating recall
   13. Calculating f1 score
   14. Plotting Precison Recall curve .
+  
     
